@@ -1,0 +1,200 @@
+# Site
+repository: h-hkoury/hkhoury.dev
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Hana Khoury
+title: Senior Platform Engineer & SRE
+email: contact@hkhoury.dev
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username: h-khoury
+linkedin_username: hna-khry
+
+# Additional icon links
+additional_links:
+  - title: Download CV
+    icon: fas fa-file-pdf
+    url: https://ln5.sync.com/dl/75353e880#754vyru8-8kxbb4e2-hpqbkmkj-ph27jdip
+
+# About Section
+about_profile_image: images/profile.jpg
+about_content: |
+  Continuously expanding ‘The Platform’ while nurturing a sustainable DevOps culture.
+
+  Senior SRE with strong ability for self-learning, highly adaptive to fast-paced environments, team player and detail oriented.
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Cisco
+        link: https://www.cisco.com
+        sub_title: Site Reliability Engineer
+        caption: January 2023 - Present
+        description: |
+          Developing CNAPP & GenAI Incubation platform.
+
+          Being dispatched into multiple venture teams at different development lifecycles, our engineering platform offers multiple flavors of services:
+
+          - Comprehensive CI/CD & GitOps development
+          - Cross-functional observability design
+          - Project consultation and stack architecture
+          - Microservice integration and security
+          - Cloud services and Infra migrations
+          - IDP self-service workflows
+          - Production on-call and incident mitigation
+
+          Leveraging the latest tech stack, all cloud-based while adhering to Cisco’s highest security standards.
+
+      - layout: left
+        title: Micro Focus (Formerly HPE)
+        links:
+          - https://www.microfocus.com
+          - https://www.opentext.com
+        sub_title: DevOps Engineer - SaaS R&D
+        caption: July 2022 - January 2023
+        description: |
+          Part of Control Tower R&D group:
+
+          - Developing GitOps & CI/CD pipelines for multiple R&D groups
+          - IaC deployment on AWS CDK (Python/TypeScript)
+          - Microservice deployment on AWS ECS
+          - Automating infra migrations to VMC & AWS
+
+      - layout: left
+        title: Micro Focus (Formerly HPE)
+        links:
+          - https://www.microfocus.com
+          - https://www.opentext.com
+        sub_title: Infrastructure Engineer - Cloud R&D
+        caption: December 2019 - July 2022
+        description: |
+          - ScrumMaster: facilitating daily scrum, sprint planning, and retrospectives.
+          - Automating cloud migration efforts.
+          - Designing observability solutions for public cloud and middleware services.
+          - Developing Internal Cloud Management Platform (IaC/NodeJS):
+            - Provisioning over 5,000 virtual servers for R&D and Production
+            - Handling different requirements and architectures from ~1,200 users
+
+      - layout: left
+        title: Micro Focus (Formerly HPE)
+        links:
+          - https://www.microfocus.com
+          - https://www.opentext.com
+        sub_title: SRE - SaaS Production
+        caption: December 2018 - December 2019
+        description: |
+          - Developing self-heal cronjobs for our on-prem infra (C#/BASH).
+          - Debugging telemetry and mitigating real-time production outages.
+          - Coordinating app upgrade processes with SLA compliance for all stakeholders.
+          - Managing RCA; implementing preventative & auto-detective measures.
+          - Creating & refining production on-call run books.
+          - Individually developed a full-stack application for SaaS incident management.
+
+      - layout: left
+        title: Hewlett Packard Enterprise
+        link: https://www.hpe.com
+        sub_title: SRE - SaaS Production
+        caption: December 2016 - December 2018
+        description: |
+          - Deploying telemetry scraping workflows and alert configurations (metrics, logs, traces).
+          - Infrastructure health maintenance for VMware & cloud environments.
+          - Debugging outages, developing and automating self-heal workflows.
+          - Production on-call; incident management & coordination with R&D and stakeholders.
+          - Individually developed a full-stack app of a centralized observability console.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Technion - Israel Institute of Technology
+        caption: 2012 - 2016
+        sub_title: B.Sc Computer Science & Information Systems
+
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: AWS Certified Solutions Architect – Associate
+        caption: Amazon Web Services (AWS)
+
+  - title: Skills & Technologies # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Cloud & Orchestration
+        description: |
+          [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/) 
+          [![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/) 
+          [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/) 
+          [![OpenShift](https://img.shields.io/badge/OpenShift-E10000?style=flat&logo=redhat&logoColor=white)](https://www.openshift.com/) 
+          [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) 
+          [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://helm.sh/) 
+          [![Kustomize](https://img.shields.io/badge/Kustomize-7E7E7E?style=flat&logo=github&logoColor=white)](https://kustomize.io/)
+
+      - layout: left
+        title: CI/CD & GitOps
+        description: |
+          [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions) 
+          [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/) 
+          [![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/en/stable/) 
+          [![Argo Workflows](https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=flat&logo=argo&logoColor=white)](https://argoproj.github.io/workflows/) 
+          [![Temporal](https://img.shields.io/badge/Temporal-2D3E50?style=flat&logo=temporal&logoColor=white)](https://temporal.io/) 
+          [![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-2664A9?style=flat&logo=hashicorp&logoColor=white)](https://www.vaultproject.io/)
+
+      - layout: left
+        title: IaC & Automation
+        description: |
+          [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/) 
+          [![Pulumi](https://img.shields.io/badge/Pulumi-623CE4?style=flat&logo=pulumi&logoColor=white)](https://www.pulumi.com/) 
+          [![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cdk/) 
+          [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com/)
+          [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
+          [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
+      - layout: left
+        title: Observability & Monitoring
+        description: |
+          [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io/) 
+          [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/) 
+          [![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)](https://www.elastic.co/) 
+          [![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)](https://www.splunk.com/) 
+          [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-3B49DF?style=flat&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
+
+      - layout: left
+        title: Backend & API
+        description: |
+          [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.java.com/) 
+          [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
+          [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://go.dev/)
+          [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
+
+      - layout: left
+        title: Databases
+        description: |
+          [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+          [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
+          [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+          [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](https://redis.io/)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+ - jekyll-assets
