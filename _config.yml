@@ -155,7 +155,7 @@ content:
         description: |
           [![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/) 
           [![Pulumi](https://img.shields.io/badge/Pulumi-623CE4?style=flat&logo=pulumi&logoColor=white)](https://www.pulumi.com/) 
-          [![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cdk/) 
+          [![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/cdk/) 
           [![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com/)
           [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) 
           [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
