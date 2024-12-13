@@ -112,13 +112,15 @@ content:
           - Individually developed a full-stack app of a centralized observability console.
 
   - title: Education # Title for the section
-    layout: inline # Changed to inline to place items side-by-side
+    layout: list # This layout is supported
     content:
-      - title: Technion - Israel Institute of Technology
+      - layout: left
+        title: Technion - Israel Institute of Technology
         caption: 2012 - 2016
         sub_title: B.Sc Computer Science & Information Systems
 
-      - title: Tel Aviv University
+      - layout: right
+        title: Tel Aviv University
         caption: 2024 - 2026
         sub_title: Master of Business Administration (MBA), Data Science
 
