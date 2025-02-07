@@ -40,56 +40,28 @@ content:
         sub_title: Senior DevOps Engineer 
         caption: December 2024 - Present
         description: |
-          Cisco ThousandEyes
+          Cisco ThousandEyes - Cloud Insights 
       - layout: left
         title: Cisco
         link: https://www.cisco.com
         sub_title: Site Reliability Engineer - Platform
         caption: January 2023 - December 2024
         description: |
-            Developing CNAPP & GenAI Incubation platform at Cisco Outshift
-            Being dispatched into multiple venture teams at different development lifecycles,
-            Our engineering platform offered multiple flavor of services:
-            
-            - CI/CD & GitOps Enablement - End-to-end pipeline development.
-            - Cross-Functional Observability - Metrics, logs, and traces for system visibility.
-            - Stack Architecture & Consultation - Guidance on project design, tech stack, and best practices.
-            - Microservice Integration - Seamless service deployment with embedded security controls.
-            - Cloud Services & Infra Migrations - Streamlining migrations to cloud-native.
-            - IDP Self-Service Workflows - Self service Internal Developer Portal.
-            - Production On-Call & Incident Mitigation - Proactive support for HA production systems.
-            
-            Leveraging latest tech stack, all cloud based while adhering to Cisco’s highest security standards.
-
-      - layout: center
+            Developed CNAPP & GenAI Incubation Platform at Cisco Outshift
+      - layout: left
         title: Micro Focus (Formerly HPE)
-        links:
-          - https://www.microfocus.com
-          - https://www.opentext.com
+        link: https://www.microfocus.com https://www.opentext.com
         sub_title: DevOps Engineer - SaaS R&D
-        caption: July 2022 - January 2023
-
-      - layout: center
-        title: Micro Focus (Formerly HPE)
-        links:
-          - https://www.microfocus.com
-          - https://www.opentext.com
-        sub_title: Infrastructure Engineer - Cloud R&D
-        caption: December 2019 - July 2022
-
-      - layout: center
-        title: Micro Focus (Formerly HPE)
-        links:
-          - https://www.microfocus.com
-          - https://www.opentext.com
-        sub_title: SRE - SaaS Production
-        caption: December 2018 - December 2019
-
-      - layout: center
+        caption: December 2018 - January 2023
+        description: |
+            Multiple teams & roles: SRE/Infrastructure Engineer/DevOps
+      - layout: left
         title: Hewlett Packard Enterprise
         link: https://www.hpe.com
         sub_title: SRE - SaaS Production
         caption: December 2016 - December 2018
+        description: |
+          SRE for SaaS Cloud Products 
 
 
   - title: Education # Title for the section
