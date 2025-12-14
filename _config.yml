@@ -52,14 +52,14 @@ content:
         title: Micro Focus (Formerly HPE)
         link: https://www.microfocus.com
         sub_title: DevOps Engineer - SaaS R&D
-        caption: December 2018 - January 2023
+        caption: December 2019 - January 2023
         description: |
             Multiple teams & roles: SRE/Infrastructure Engineer/DevOps
       - layout: left
         title: Hewlett Packard Enterprise
         link: https://www.hpe.com
         sub_title: SRE - SaaS Production
-        caption: December 2016 - December 2018
+        caption: December 2016 - December 2019
         description: |
           SRE for SaaS Cloud Products 
 
