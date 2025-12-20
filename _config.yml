@@ -49,19 +49,19 @@ content:
         description: |
             Developed CNAPP & GenAI Incubation Platform at Cisco Outshift
       - layout: left
-        title: Micro Focus (Formerly HPE)
+        title: Micro Focus
         link: https://www.microfocus.com
         sub_title: DevOps Engineer - SaaS R&D
         caption: December 2019 - January 2023
         description: |
-            Multiple teams & roles: SRE/Infrastructure Engineer/DevOps
+            Multiple roles: DevOps/Infrastructure Engineer
       - layout: left
         title: Hewlett Packard Enterprise
         link: https://www.hpe.com
-        sub_title: SRE - SaaS Production
+        sub_title: SRE - SaaS Infra/Production
         caption: December 2016 - December 2019
         description: |
-          SRE for SaaS Cloud Products 
+          SRE for HPE SaaS Products 
 
 
   - title: Education # Title for the section
@@ -75,7 +75,7 @@ content:
       - layout: left
         title: Tel Aviv University
         caption: 2024 - 2026
-        sub_title: Master of Business Administration (MBA), Data Science
+        sub_title: Master of Business Administration (MBA), Information Systems Management
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
