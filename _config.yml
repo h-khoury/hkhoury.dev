@@ -38,16 +38,10 @@ content:
         title: Cisco
         link: https://www.cisco.com
         sub_title: Senior DevOps Engineer 
-        caption: December 2024 - Present
+        caption: January 2023 - Present
         description: |
-          Cisco ThousandEyes - Developing Cloud Insights Infrastrcture & SaaS Platform 
-      - layout: left
-        title: Cisco
-        link: https://www.cisco.com
-        sub_title: Site Reliability Engineer - Platform
-        caption: January 2023 - December 2024
-        description: |
-            Developed CNAPP & GenAI Incubation Platform at Cisco Outshift
+          * Cisco ThousandEyes - Developing Cloud Insights Infrastrcture & SaaS Platform
+          * Developed CNAPP & GenAI Incubation Platform at Cisco Outshift
       - layout: left
         title: Micro Focus
         link: https://www.microfocus.com
