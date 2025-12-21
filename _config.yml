@@ -61,15 +61,16 @@ content:
   - title: Education # Title for the section
     layout: list # This layout is supported
     content:
-      - layout: left
-        title: Technion - Israel Institute of Technology
-        caption: 2012 - 2016
-        sub_title: B.Sc Computer Science & Information Systems
 
       - layout: left
         title: Tel Aviv University
         caption: 2024 - 2026
         sub_title: Master of Business Administration (MBA), Information Systems Management
+
+      - layout: left
+        title: Technion - Israel Institute of Technology
+        caption: 2012 - 2016
+        sub_title: B.Sc Computer Science & Information Systems
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
