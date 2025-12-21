@@ -48,14 +48,14 @@ content:
         sub_title: DevOps Engineer - SaaS R&D
         caption: December 2019 - January 2023
         description: |
-            Multiple roles: DevOps/Infrastructure Engineer
+            * Multiple roles: DevOps/Infrastructure Engineer
       - layout: left
         title: Hewlett Packard Enterprise
         link: https://www.hpe.com
         sub_title: SRE - SaaS Infra/Production
         caption: December 2016 - December 2019
         description: |
-          SRE for HPE SaaS Products 
+          * SRE for HPE SaaS Products 
 
 
   - title: Education # Title for the section
